@@ -1,0 +1,7 @@
+---
+title: "About"
+---
+
+This is an [R Markdown website](http://rmarkdown.rstudio.com/rmarkdown_websites.html). The source can be found [on GitHub](https://github.com/JoeyBernhardt/thesis) and its home on the web is here:
+
+<https://joeybernhardt.github.io/thesis>
